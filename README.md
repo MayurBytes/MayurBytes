@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a full-stack web developer as well as ML engineer with over 6 months of hands-on experience building real-world web applications.<br><br>I’ve worked on SaaS products and startup-style projects where I handled both frontend and backend responsibilities.<br><br>I enjoy designing clean, user-friendly interfaces and backing them with solid, scalable architecture.<br>Alongside web development, I work with Machine Learning to build data-driven features such as predictions, classification systems, and intelligent workflows.<br><br>I like solving practical problems, learning new technologies, and turning ideas into reliable digital products.</p>
+<p align="left">I’m a ML engineer as well as full-stack web developer  with over 6 months of hands-on experience building real-world web applications.<br><br>I’ve worked on SaaS products and startup-style projects where I handled both frontend and backend responsibilities.<br><br>I enjoy designing clean, user-friendly interfaces and backing them with solid, scalable architecture.<br>Alongside web development, I work with Machine Learning to build data-driven features such as predictions, classification systems, and intelligent workflows.<br><br>I like solving practical problems, learning new technologies, and turning ideas into reliable digital products.</p>
 
 ###
 
@@ -40,16 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
-
-###
-
-<h2 align="left">Get in Touch</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
