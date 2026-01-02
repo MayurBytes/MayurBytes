@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a ML engineer as well as full-stack web developer  with over 6 months of hands-on experience building real-world web applications.<br><br>I’ve worked on SaaS products and startup-style projects where I handled both frontend and backend responsibilities.<br><br>I enjoy designing clean, user-friendly interfaces and backing them with solid, scalable architecture.<br>Alongside web development, I work with Machine Learning to build data-driven features such as predictions, classification systems, and intelligent workflows.<br><br>I like solving practical problems, learning new technologies, and turning ideas into reliable digital products.</p>
+<p align="left">ML engineer as well as full-stack web developer  with over 6 months of hands-on experience building real-world web applications.<br><br>I’ve worked on SaaS products and startup-style projects where I handled both frontend and backend responsibilities.<br><br>I enjoy designing clean, user-friendly interfaces and backing them with solid, scalable architecture.<br>Alongside web development, I work with Machine Learning to build data-driven features such as predictions, classification systems, and intelligent workflows.<br><br>I like solving practical problems, learning new technologies, and turning ideas into reliable digital products.</p>
 
 ###
 
